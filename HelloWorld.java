@@ -5,4 +5,3 @@ class HelloWorld {
         System.out.println("Hello Everyone !!! \n This is my First program");
 	}
 }
-	  
